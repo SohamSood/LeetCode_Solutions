@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
 | ------- |
