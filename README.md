@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
