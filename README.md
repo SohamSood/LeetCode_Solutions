@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
