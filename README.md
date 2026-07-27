@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Database
 |  |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
