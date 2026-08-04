@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0684-redundant-connection](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
@@ -167,14 +169,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+| [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+| [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
+| [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
