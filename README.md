@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
