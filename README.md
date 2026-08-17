@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Breadth-First Search
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Shortest Path
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Topological Sort
