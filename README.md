@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Graph Theory
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Heap (Priority Queue)
@@ -119,11 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
+| [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 ## String
 |  |
 | ------- |
