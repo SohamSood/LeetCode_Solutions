@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Graph Theory
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Heap (Priority Queue)
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
+| [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Divide and Conquer
 |  |
 | ------- |
