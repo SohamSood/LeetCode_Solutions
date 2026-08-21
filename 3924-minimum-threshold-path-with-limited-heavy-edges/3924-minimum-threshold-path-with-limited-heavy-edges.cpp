@@ -1,26 +1,32 @@
 class Solution {
 public:
     bool pathexists(int n,int source,int target,vector<vector<vector<int>>>& adj,int k,int threshold) {
-        priority_queue<vector<int>,vector<vector<int>>,greater<vector<int>>> pq;
+        deque<int> dq;
         vector<int> dist(n, INT_MAX);
-        dist[source] = 0;
-        pq.push({0,source});
-        while(!pq.empty()) {
-            int cost = pq.top()[0];
-            int curr = pq.top()[1];
-            pq.pop();
-            if (cost > dist[curr]) continue;
-            if (curr == target) {
-                return cost <= k;
-            }
-            for(int i = 0;i<adj[curr].size();i++) {
-                int next = adj[curr][i][0];
-                int newCost = cost + (adj[curr][i][1] > threshold);
-                if (newCost < dist[next]) {
-                    dist[next] = newCost;
-                    pq.push({newCost, next});
+        dist[source] = 0; 
+        dq.push_back(source);
+        while(!dq.empty()) {
+            int currnode = dq.front();
+            dq.pop_front();
+            if(currnode == target) return dist[currnode] <= k;
+            for(int i = 0;i<adj[currnode].size();i++) {
+                int next = adj[currnode][i][0];
+                int weight = adj[currnode][i][1];
+                int heavy = 0;
+                if(weight>threshold) {
+                    heavy = 1;
+                } 
+                int newcost = dist[currnode] + heavy;
+
+                if(newcost < dist[next]) {
+                    dist[next] = newcost;
+                    if(heavy == 0) {
+                        dq.push_front(next);
+                    } else {
+                        dq.push_back(next);
+                    }
                 }
-            }      
+            }  
         }
         return false;
     }
