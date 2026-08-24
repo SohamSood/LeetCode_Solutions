@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0233-number-of-digit-one](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0337-house-robber-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0377-combination-sum-iv](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0518-coin-change-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -334,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
