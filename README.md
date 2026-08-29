@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0091-decode-ways) |
+| [0880-decoded-string-at-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0880-decoded-string-at-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 ## Tree
 |  |
 | ------- |
