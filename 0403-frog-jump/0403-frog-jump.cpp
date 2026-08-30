@@ -20,11 +20,11 @@ public:
                 }
             }
         }
-        for(int i = 0;i<dp.size();i++) {
-            cout<<i<<"-"<<stones[i]<<" -> ";
-            for(int x:dp[i]) cout<<x<<" ";
-            cout<<endl<<endl;
-        }
+        // for(int i = 0;i<dp.size();i++) {
+        //     cout<<i<<"-"<<stones[i]<<" -> ";
+        //     for(int x:dp[i]) cout<<x<<" ";
+        //     cout<<endl<<endl;
+        // }
         return dp.back().size() != 0;
     }
 };
