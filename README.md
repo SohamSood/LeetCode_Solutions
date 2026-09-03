@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0670-maximum-swap) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2376-count-special-integers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2376-count-special-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2376-count-special-integers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2376-count-special-integers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
