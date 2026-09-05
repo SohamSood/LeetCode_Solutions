@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0585-investments-in-2016](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0585-investments-in-2016) |
 | [0627-swap-sex-of-employees](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0627-swap-sex-of-employees) |
+| [3554-find-category-recommendation-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3554-find-category-recommendation-pairs) |
 | [3586-find-covid-recovery-patients](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3586-find-covid-recovery-patients) |
 ## Recursion
 |  |
