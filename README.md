@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 | [3853-merge-close-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3853-merge-close-characters) |
 ## String
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 ## Trie
 |  |
 | ------- |
