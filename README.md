@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1825-finding-mk-average](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1825-finding-mk-average) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0880-decoded-string-at-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+| [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Divide and Conquer
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 ## Graph Coloring
 |  |
 | ------- |
