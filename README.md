@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0493-reverse-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
+| [0848-shifting-letters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0091-decode-ways) |
+| [0848-shifting-letters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [0880-decoded-string-at-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0848-shifting-letters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bracket Sequences
