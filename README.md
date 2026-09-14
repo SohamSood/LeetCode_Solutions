@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3809-best-reachable-tower](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3809-best-reachable-tower) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3904-smallest-stable-index-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
