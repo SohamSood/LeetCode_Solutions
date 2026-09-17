@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1583-count-unhappy-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1583-count-unhappy-friends) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2140-solving-questions-with-brainpower](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,11 +302,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 ## DP on Trees
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 ## Two Pointers
 |  |
 | ------- |
