@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Hash Table
 |  |
 | ------- |
