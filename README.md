@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0684-redundant-connection](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
+| [0538-convert-bst-to-greater-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -408,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
