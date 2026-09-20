@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3809-best-reachable-tower](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3809-best-reachable-tower) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Union-Find
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -366,10 +369,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+| [3515-shortest-path-in-a-weighted-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 ## Merge Sort
 |  |
 | ------- |
