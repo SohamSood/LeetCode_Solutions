@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0233-number-of-digit-one](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0670-maximum-swap](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0670-maximum-swap) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
