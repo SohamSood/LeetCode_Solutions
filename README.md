@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1615-maximal-network-rank](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1615-maximal-network-rank) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
+| [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
