@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2376-count-special-integers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2376-count-special-integers) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 ## Dynamic Programming
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3493-properties-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3493-properties-graph) |
 | [3853-merge-close-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3853-merge-close-characters) |
 ## String
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -470,4 +475,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
+## Least Common Multiple
+|  |
+| ------- |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 <!---LeetCode Topics End-->
