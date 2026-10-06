@@ -1,9 +1,9 @@
 class Solution {
 public:
 
-    unordered_map<string,int> st;
-    unordered_map<int,set<string>> mp;
-    vector<int> parent;
+    unordered_map<string,int> st; // email , parent
+    unordered_map<int,set<string>> mp; // parent, belonging strings
+    vector<int> parent; //parents
 
     int find_parent(int i) {
         if(parent[i] == i) return i;
@@ -18,14 +18,17 @@ public:
         if(mp[p1].size() > mp[p2].size()) {
             parent[p2] = p1;
 
-            for(string s : mp[p2])
+            for(string s : mp[p2]) {
                 mp[p1].insert(s);
+            }
+            mp[p2].clear();
         }
         else {
             parent[p1] = p2;
 
             for(string s : mp[p1])
                 mp[p2].insert(s);
+            mp[p1].clear();
         }
     }
     vector<vector<string>> accountsMerge(vector<vector<string>>& accounts) {
