@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0670-maximum-swap](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0670-maximum-swap) |
+| [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1012-numbers-with-repeated-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1201-ugly-number-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1201-ugly-number-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0740-delete-and-earn) |
 | [0848-shifting-letters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0684-redundant-connection](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0721-accounts-merge) |
+| [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0740-delete-and-earn) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1201-ugly-number-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1201-ugly-number-iii) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -522,4 +527,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1201-ugly-number-iii) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
