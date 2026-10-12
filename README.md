@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
