@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1201-ugly-number-iii) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Divide and Conquer
