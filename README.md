@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Number Theory
 |  |
 | ------- |
