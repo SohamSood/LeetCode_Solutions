@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0721-accounts-merge](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0740-delete-and-earn) |
+| [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
 | [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0721-accounts-merge](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0848-shifting-letters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [0880-decoded-string-at-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
 ## Sorting
 |  |
 | ------- |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0670-maximum-swap](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0670-maximum-swap) |
+| [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [1338-reduce-array-size-to-the-half](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1338-reduce-array-size-to-the-half) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
