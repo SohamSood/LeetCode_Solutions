@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0740-delete-and-earn) |
 | [0848-shifting-letters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0911-online-election](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0911-online-election) |
 | [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0740-delete-and-earn) |
 | [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
+| [0911-online-election](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0911-online-election) |
 | [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0911-online-election](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0911-online-election) |
 | [1825-finding-mk-average](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1825-finding-mk-average) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Database
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
+| [0911-online-election](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0911-online-election) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1201-ugly-number-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1201-ugly-number-iii) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
