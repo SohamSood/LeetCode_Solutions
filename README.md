@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1158-market-analysis-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1158-market-analysis-i) |
 | [1934-confirmation-rate](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1934-confirmation-rate) |
+| [3497-analyze-subscription-conversion](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3497-analyze-subscription-conversion) |
 | [3554-find-category-recommendation-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3554-find-category-recommendation-pairs) |
 | [3586-find-covid-recovery-patients](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3586-find-covid-recovery-patients) |
 ## Recursion
