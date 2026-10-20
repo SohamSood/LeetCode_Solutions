@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0091-decode-ways) |
 | [0721-accounts-merge](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
