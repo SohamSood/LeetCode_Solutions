@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0029-divide-two-integers) |
 | [0233-number-of-digit-one](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0670-maximum-swap](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0670-maximum-swap) |
 | [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0337-house-robber-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0721-accounts-merge](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0721-accounts-merge) |
