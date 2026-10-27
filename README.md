@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0848-shifting-letters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3904-smallest-stable-index-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Bracket Sequences
 |  |
