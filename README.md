@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2376-count-special-integers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2376-count-special-integers) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Number Theory
 |  |
 | ------- |
