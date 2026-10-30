@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0213-house-robber-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0031-next-permutation) |
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
