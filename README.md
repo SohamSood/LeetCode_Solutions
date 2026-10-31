@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2405-optimal-partition-of-string](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 ## Sorting
 |  |
 | ------- |
