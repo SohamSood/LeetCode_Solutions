@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0313-super-ugly-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0670-maximum-swap) |
 | [0952-largest-component-size-by-common-factor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1012-numbers-with-repeated-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0493-reverse-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0721-accounts-merge](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0721-accounts-merge) |
