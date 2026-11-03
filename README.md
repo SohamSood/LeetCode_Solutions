@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3809-best-reachable-tower](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3809-best-reachable-tower) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
