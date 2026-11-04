@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0911-online-election](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0911-online-election) |
 | [1825-finding-mk-average](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1825-finding-mk-average) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Database
 |  |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1825-finding-mk-average](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1825-finding-mk-average) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [1825-finding-mk-average](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1825-finding-mk-average) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Ordered Set
 |  |
 | ------- |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
