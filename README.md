@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-flower-planting-with-no-adjacent](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0911-online-election](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0911-online-election) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1825-finding-mk-average](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1825-finding-mk-average) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -435,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3515-shortest-path-in-a-weighted-tree](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3515-shortest-path-in-a-weighted-tree) |
@@ -508,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1201-ugly-number-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1201-ugly-number-iii) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
@@ -646,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0907-sum-of-subarray-minimums) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
