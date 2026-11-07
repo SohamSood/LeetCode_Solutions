@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1583-count-unhappy-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1583-count-unhappy-friends) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1882-process-tasks-using-servers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1825-finding-mk-average](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1825-finding-mk-average) |
+| [1882-process-tasks-using-servers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
