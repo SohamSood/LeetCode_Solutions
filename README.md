@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2405-optimal-partition-of-string](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2405-optimal-partition-of-string) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3853-merge-close-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3853-merge-close-characters) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1657-determine-if-two-strings-are-close](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1268-search-suggestions-system](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1268-search-suggestions-system) |
+| [2416-sum-of-prefix-scores-of-strings](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 ## Graph Coloring
 |  |
 | ------- |
