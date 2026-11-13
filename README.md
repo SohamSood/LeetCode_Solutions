@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2405-optimal-partition-of-string](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2405-optimal-partition-of-string) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
