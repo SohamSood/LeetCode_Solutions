@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3665-twisted-mirror-path-count](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 ## Sorting
 |  |
 | ------- |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Data Stream
 |  |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2405-optimal-partition-of-string](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
