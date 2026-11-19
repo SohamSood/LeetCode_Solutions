@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2012-sum-of-beauty-in-the-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2140-solving-questions-with-brainpower](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
