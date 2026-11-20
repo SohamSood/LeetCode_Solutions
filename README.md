@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3665-twisted-mirror-path-count](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3693-climbing-stairs-ii) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Data Stream
