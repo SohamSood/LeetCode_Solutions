@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3123-find-edges-in-shortest-paths](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3123-find-edges-in-shortest-paths) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2501-longest-square-streak-in-an-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2501-longest-square-streak-in-an-array) |
+| [2508-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2508-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
