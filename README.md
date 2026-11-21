@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2012-sum-of-beauty-in-the-array) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2140-solving-questions-with-brainpower](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-maximal-network-rank](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1615-maximal-network-rank) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2360-longest-cycle-in-a-graph](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2354-number-of-excellent-pairs](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2354-number-of-excellent-pairs) |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2405-optimal-partition-of-string](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
@@ -691,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
