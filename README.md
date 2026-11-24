@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1583-count-unhappy-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1583-count-unhappy-friends) |
+| [1591-strange-printer-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1591-strange-printer-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1882-process-tasks-using-servers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1920-build-array-from-permutation) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1514-path-with-maximum-probability](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1514-path-with-maximum-probability) |
+| [1591-strange-printer-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1591-strange-printer-ii) |
 | [1615-maximal-network-rank](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1615-maximal-network-rank) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [1301-number-of-paths-with-max-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1591-strange-printer-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1591-strange-printer-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [1591-strange-printer-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1591-strange-printer-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -701,5 +705,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [1591-strange-printer-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1591-strange-printer-ii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
