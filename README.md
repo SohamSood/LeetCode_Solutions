@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0403-frog-jump) |
 | [0518-coin-change-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0518-coin-change-ii) |
 | [0552-student-attendance-record-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0552-student-attendance-record-ii) |
+| [0664-strange-printer](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0664-strange-printer) |
 | [0740-delete-and-earn](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0873-length-of-longest-fibonacci-subsequence](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0873-length-of-longest-fibonacci-subsequence) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0091-decode-ways) |
+| [0664-strange-printer](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0664-strange-printer) |
 | [0721-accounts-merge](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0763-partition-labels) |
 | [0848-shifting-letters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0848-shifting-letters) |
