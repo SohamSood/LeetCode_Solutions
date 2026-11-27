@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2376-count-special-integers](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2376-count-special-integers) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1291-sequential-digits) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1366-rank-teams-by-votes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1366-rank-teams-by-votes) |
 | [1657-determine-if-two-strings-are-close](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2275-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0037-sudoku-solver) |
 | [0357-count-numbers-with-unique-digits](https://github.com/SohamSood/LeetCode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 ## Number Theory
 |  |
