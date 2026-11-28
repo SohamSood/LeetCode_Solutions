@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3218-minimum-cost-for-cutting-cake-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3218-minimum-cost-for-cutting-cake-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2545-sort-the-students-by-their-kth-score](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3665-twisted-mirror-path-count](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3665-twisted-mirror-path-count) |
