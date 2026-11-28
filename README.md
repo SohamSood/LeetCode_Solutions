@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2405-optimal-partition-of-string) |
 | [2416-sum-of-prefix-scores-of-strings](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2416-sum-of-prefix-scores-of-strings) |
 | [2512-reward-top-k-students](https://github.com/SohamSood/LeetCode_Solutions/tree/master/2512-reward-top-k-students) |
+| [3163-string-compression-iii](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3163-string-compression-iii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3853-merge-close-characters](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3853-merge-close-characters) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SohamSood/LeetCode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
